@@ -4,5 +4,6 @@
     echo "Hello World";
 //Se aceptarán mejoras
 //info
-echo "Contribucion";
+
+echo "Hola Mundo";
 ?>
