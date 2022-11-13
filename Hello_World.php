@@ -3,4 +3,5 @@
 // (https://www.php.net)
     echo "Hello World";
 //Se aceptarán mejoras
+//info
 ?>
